@@ -15,18 +15,6 @@
 
 <div align="left">
 
----
-
-## `$ whoami`
-
-I'm a software developer passionate about building reliable, scalable, and practical software.
-
-I enjoy working on backend systems, APIs, web applications, automation, and developer-focused tools.
-
-I'm always learning, experimenting with new technologies, and improving my engineering skills through real-world projects.
-
----
-
 </div>
 
 ## 🛠️ Tech Stack
@@ -140,62 +128,12 @@ I'm always learning, experimenting with new technologies, and improving my engin
 </div>
 ---
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+## `$ whoami`
 
-## 🎯 Current Focus
+I'm a software developer passionate about building reliable, scalable, and practical software.
 
-* 🚀 Building scalable backend services & APIs
-* 💻 Developing modern web applications
-* 🏗️ Improving software architecture & code quality
-* ☁️ Exploring cloud technologies & DevOps
-* 🤖 Exploring AI-powered applications
-* 🔐 Learning security & best practices
-* 🌎 Contributing to open-source projects
+I enjoy working on backend systems, APIs, web applications, automation, and developer-focused tools.
 
-</td>
-
-<td width="50%" valign="top">
-
-## 🧠 What I Like Building
-
-* ⚙️ Backend Systems & APIs
-* 🌐 Web Applications
-* 🤖 AI & Automation
-* 🗄️ Database-driven Applications
-* 🔐 Secure Software
-* ☁️ Cloud & DevOps
-* 🛠️ Developer Tools
-
-</td>
-</tr>
-</table>
+I'm always learning, experimenting with new technologies, and improving my engineering skills through real-world projects.
 
 ---
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Cryptonix8">
-  <img src="https://img.shields.io/badge/GitHub-Cryptonix8-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🦅 Keep Building. Keep Learning. Keep Flying.
-
-**Falcon · Cryptonix8**
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Cryptonix8\&label=Profile%20Views\&color=blue\&style=flat-square)
-
-</div>
