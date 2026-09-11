@@ -1,4 +1,4 @@
-# Hi there 👋, I am Software Developer | Backend Developer | Full-Stack Engineer
+# Hi there 👋, I am Cool develooper
 
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://count.getloli.com/@falcon0709?name=falcon0709&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
@@ -132,14 +132,3 @@
   <img width="12" />
 </div>
 
----
-
-## `$ whoami`
-
-I'm a software developer passionate about building reliable, scalable, and practical software.
-
-I enjoy working on backend systems, APIs, web applications, automation, and developer-focused tools.
-
-I'm always learning, experimenting with new technologies, and improving my engineering skills through real-world projects.
-
----
